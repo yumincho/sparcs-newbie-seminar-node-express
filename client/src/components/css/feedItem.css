@@ -1,0 +1,16 @@
+.feed-item-edit {
+  padding: 20px;
+}
+
+.edit-item {
+  position: absolute;
+  right: 45px;
+  top: 12px;
+  color: red;
+  font-size: 18px;
+}
+
+.edit-item:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
